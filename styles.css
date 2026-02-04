@@ -1,10 +1,21 @@
 
 
 .title{
-    background-color: red;
+
+
+   margin: 10px 10px 10px 10px;
+   border: 10px;
+  
+
+   border: 10px dashed black;
+   
+   
+   
 }
 .card{
-    background-color: aqua;
+    background-color: antiquewhite;
     text-align: center;
-
+    padding-bottom: 500px;
+    padding-top: 5px;
+    margin: auto 100px;
 }
